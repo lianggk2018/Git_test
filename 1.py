@@ -12,5 +12,3 @@ f
 ae
 gae
 ga
-g
-awfawfwafafa
